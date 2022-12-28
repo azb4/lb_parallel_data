@@ -1,0 +1,6 @@
+﻿  lb3_1.cpp
+C:\Users\Vezunchik\source\repos\Lb3_1\Lb3_1\lb3_1.cpp(215,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Vezunchik\source\repos\Lb3_1\Lb3_1\lb3_1.cpp(372,13): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Vezunchik\source\repos\Lb3_1\Lb3_1\lb3_1.cpp(372,10): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Vezunchik\source\repos\Lb3_1\Lb3_1\lb3_1.cpp(372,7): warning C4101: i: неиспользованная локальная переменная
+  Lb3_1.vcxproj -> C:\Users\Vezunchik\source\repos\Lb3_1\x64\Debug\Lb3_1.exe
